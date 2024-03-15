@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vimalrajanb
 - 👀 I’m interested in ML,AI and DevOps Engineering.
-- 🌱 I’m currently learning ML and AI concepts in deep
+- 🌱 I’m currently learning ML and AI concepts in depth
 - 📫 How to reach me at b.vimalrajan@gmail.com
